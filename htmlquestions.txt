@@ -1,0 +1,25 @@
+********************Read , Understand ,Solve ,Ask****************************
+******************************************************************************
+
+1.What is the need of mentioning <!DOCTYPE HTML> at the beginning of an HTML page?
+2.List out the new Structural Elements in HTML5.
+3.How can we produce a horizontal line on a webpage?
+5.Why is the div tag so useful in developing HTML web pages?	
+6. Define the types of HTML Headings
+7.How can we group heading elements?
+8.Define span tag.
+9.Define Meta tags
+10.What are the most commonly used List tags?
+11.What is a hyperlink?
+12.When do we use a meter tag?
+13.What is the difference between HTML and XHTML?
+
+
+kindly go through link 
+https://www.softwaretestinghelp.com/html5-interview-questions/
+
+https://www.sanfoundry.com/html-questions-answers-html5-introduction-1/
+
+
+******************************************************************************
+kindly go through java script pdf 
